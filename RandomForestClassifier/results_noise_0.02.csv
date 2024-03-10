@@ -1,0 +1,16 @@
+Name,Number of reducts,Shortest reducts Size,Reducts accuracy,Number of constructs,Shortest constructs Size,Constructs accuracy
+anneal_with_noise,13,10,0.9222222222222223,100,11,0.9222222222222223
+credit-g_with_noise,1,2,0.6,3,17,0.71
+Dermatology-no-missing-values_with_noise,77,6,0.7027027027027027,79,8,0.8108108108108109
+eucalyptus_with_noise,1,2,0.4594594594594595,1,19,0.7297297297297297
+Flags_with_noise,2,4,0.5,169,8,0.65
+German-credit_with_noise,1,2,0.61,1,15,0.74
+ilpd_with_noise,26,3,0.6271186440677966,1,10,0.6949152542372882
+loan_with_noise,5,3,0.5967741935483871,1,9,0.7580645161290323
+lymphography_with_noise,8,6,0.6666666666666666,46,9,0.6666666666666666
+Mushroom-no-missing-values_with_noise,2,17,0.982779827798278,1,20,0.991389913899139
+soybean-no-missing-values_with_noise,3,11,0.7391304347826086,127,12,0.8260869565217391
+Sponge_with_noise,1,3,1.0,4,5,1.0
+student-mat_with_noise,240,6,0.475,54,9,0.5
+Titanic_with_noise,1,4,0.7099236641221374,1,12,0.9465648854961832
+Zoo_with_noise,4,11,0.9090909090909091,4,11,0.9090909090909091
